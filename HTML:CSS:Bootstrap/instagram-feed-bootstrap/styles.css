@@ -1,0 +1,32 @@
+.brand {
+    font-family: Lobster;
+    font-size: 24px;
+}
+
+.fa-instagram, p {
+    font-size: 1.5rem;
+}
+
+.feed-img {
+    object-fit: cover;
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+}
+
+a.active {
+    background-color: gray;
+    border-radius: 8px;
+}
+
+a.active > i{
+    color: white;
+}
+
+.bg-gray {
+    background-color: rgb(219, 219, 219);
+}
+
+.text {
+    font-size: 20px;
+}
